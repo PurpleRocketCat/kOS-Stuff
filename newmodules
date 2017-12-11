@@ -1,0 +1,670 @@
+MODULES FOR PART NAMED fairingSize2 (Duna Delivery)
+
+MODULES FOR PART NAMED stackDecouplerMini
+LIST of 7 items:
+[0] = "ModuleDecouple"
+[1] = "ModuleToggleCrossfeed"
+[2] = "ModuleTestSubject"
+[3] = "CollisionFX"
+[4] = "TweakScale"
+[5] = "KOSNameTag"
+[6] = "KJRDecouplerReinforcementModule"
+MODULES FOR PART NAMED HeatShield2
+LIST of 10 items:
+[0] = "ModuleJettison"
+[1] = "ModuleDecouple"
+[2] = "ModuleAblator"
+[3] = "ModuleColorChanger"
+[4] = "ModuleTestSubject"
+[5] = "ModuleLiftingSurface"
+[6] = "CollisionFX"
+[7] = "TweakScale"
+[8] = "KOSNameTag"
+[9] = "KJRDecouplerReinforcementModule"
+MODULES FOR PART NAMED science.module
+LIST of 5 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED dmsurfacelaser
+LIST of 5 items:
+[0] = "DMModuleScienceAnimate"
+[1] = "CollisionFX"
+[2] = "ModuleKISItem"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED dmbioDrill
+LIST of 5 items:
+[0] = "DMBioDrill"
+[1] = "CollisionFX"
+[2] = "ModuleKISItem"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 5 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "CollisionFX"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 5 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "CollisionFX"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 5 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "CollisionFX"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 5 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "CollisionFX"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED ServiceBay.125
+LIST of 7 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "ModuleCargoBay"
+[2] = "ModuleSeeThroughObject"
+[3] = "ModuleConductionMultiplier"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+MODULES FOR PART NAMED GooExperiment
+LIST of 4 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED GooExperiment
+LIST of 4 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED ScienceBox
+LIST of 5 items:
+[0] = "ModuleConductionMultiplier"
+[1] = "ModuleScienceContainer"
+[2] = "CollisionFX"
+[3] = "ModuleKISItemEvaTweaker"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED sensorThermometer
+LIST of 4 items:
+[0] = "ModuleEnviroSensor"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED sensorAtmosphere
+LIST of 4 items:
+[0] = "ModuleScienceExperiment"
+[1] = "CollisionFX"
+[2] = "FNMassSpectrometer"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED sensorBarometer
+LIST of 4 items:
+[0] = "ModuleEnviroSensor"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED sensorAccelerometer
+LIST of 5 items:
+[0] = "ModuleEnviroSensor"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "FNSeismicProbe"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED dmmagBoom
+LIST of 9 items:
+[0] = "ModuleResourceScanner"
+[1] = "DMModuleScienceAnimate"
+[2] = "DMMagBoomModule"
+[3] = "CollisionFX"
+[4] = "ModuleKISItem"
+[5] = "ModuleSCANresourceScanner"
+[6] = "SCANresourceDisplay"
+[7] = "TweakScale"
+[8] = "KOSNameTag"
+MODULES FOR PART NAMED sensorGravimeter
+LIST of 4 items:
+[0] = "ModuleEnviroSensor"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED dmDAN
+LIST of 5 items:
+[0] = "DMModuleScienceAnimate"
+[1] = "CollisionFX"
+[2] = "ModuleKISItem"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED dmDAN
+LIST of 5 items:
+[0] = "DMModuleScienceAnimate"
+[1] = "CollisionFX"
+[2] = "ModuleKISItem"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED kOSMachineRad
+LIST of 5 items:
+[0] = "kOSProcessor"
+[1] = "KopernicusSolarPanel"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+[4] = "FNSolarPanelWasteHeatModule"
+MODULES FOR PART NAMED FNGCMS
+LIST of 4 items:
+[0] = "FNMassSpectrometer"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED batteryBank
+LIST of 3 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED SurfAntenna
+LIST of 6 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+[3] = "ModuleRTAntenna"
+[4] = "ModuleSPUPassive"
+[5] = "ModuleRTDataTransmitter"
+MODULES FOR PART NAMED RTLongAntenna2
+LIST of 6 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "ModuleRTAntenna"
+[5] = "ModuleSPUPassive"
+MODULES FOR PART NAMED parachuteRadial
+LIST of 7 items:
+[0] = "ModuleParachute"
+[1] = "ModuleTestSubject"
+[2] = "ModuleDragModifier"
+[3] = "ModuleDragModifier"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+MODULES FOR PART NAMED parachuteRadial
+LIST of 7 items:
+[0] = "ModuleParachute"
+[1] = "ModuleTestSubject"
+[2] = "ModuleDragModifier"
+[3] = "ModuleDragModifier"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+MODULES FOR PART NAMED parachuteRadial
+LIST of 7 items:
+[0] = "ModuleParachute"
+[1] = "ModuleTestSubject"
+[2] = "ModuleDragModifier"
+[3] = "ModuleDragModifier"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+MODULES FOR PART NAMED parachuteRadial
+LIST of 7 items:
+[0] = "ModuleParachute"
+[1] = "ModuleTestSubject"
+[2] = "ModuleDragModifier"
+[3] = "ModuleDragModifier"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreSlim
+LIST of 10 items:
+[0] = "ModuleCommand"
+[1] = "ModuleSAS"
+[2] = "ModuleKerbNetAccess"
+[3] = "ModuleRTAntennaPassive"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+[7] = "ModuleSPU"
+[8] = "TrajectoriesVesselSettings"
+[9] = "ModuleTripLogger"
+MODULES FOR PART NAMED solarPanels2
+LIST of 5 items:
+[0] = "KopernicusSolarPanel"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "FNSolarPanelWasteHeatModule"
+MODULES FOR PART NAMED solarPanels2
+LIST of 5 items:
+[0] = "KopernicusSolarPanel"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "FNSolarPanelWasteHeatModule"
+MODULES FOR PART NAMED hc.wideangle
+LIST of 4 items:
+[0] = "MuMechModuleHullCameraZoom"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+[3] = "JSIExternalCameraSelector"
+MODULES FOR PART NAMED hc.wideangle
+LIST of 4 items:
+[0] = "MuMechModuleHullCameraZoom"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+[3] = "JSIExternalCameraSelector"
+MODULES FOR PART NAMED stackDecouplerMini
+LIST of 7 items:
+[0] = "ModuleDecouple"
+[1] = "ModuleToggleCrossfeed"
+[2] = "ModuleTestSubject"
+[3] = "CollisionFX"
+[4] = "TweakScale"
+[5] = "KOSNameTag"
+[6] = "KJRDecouplerReinforcementModule"
+MODULES FOR PART NAMED US.1C10.Wedge.Quadcore
+LIST of 5 items:
+[0] = "TweakScale"
+[1] = "ModuleKISPartMount"
+[2] = "CollisionFX"
+[3] = "TweakScale"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED dmUSMagBoom
+LIST of 9 items:
+[0] = "ModuleResourceScanner"
+[1] = "DMModuleScienceAnimate"
+[2] = "DMMagBoomModule"
+[3] = "CollisionFX"
+[4] = "TweakScale"
+[5] = "ModuleKISItemEvaTweaker"
+[6] = "ModuleSCANresourceScanner"
+[7] = "SCANresourceDisplay"
+[8] = "KOSNameTag"
+MODULES FOR PART NAMED dmUSGoreSat
+LIST of 5 items:
+[0] = "DMModuleScienceAnimate"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "ModuleKISItemEvaTweaker"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED USRPWS
+LIST of 5 items:
+[0] = "DMModuleScienceAnimate"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "ModuleKISItemEvaTweaker"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED dmUSMat
+LIST of 5 items:
+[0] = "DMModuleScienceAnimate"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "ModuleKISItemEvaTweaker"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED batteryBank
+LIST of 3 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED HighGainAntenna5
+LIST of 6 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+[3] = "ModuleRTAntenna"
+[4] = "ModuleSPUPassive"
+[5] = "ModuleTripLogger"
+MODULES FOR PART NAMED SurfAntenna
+LIST of 6 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+[3] = "ModuleRTAntenna"
+[4] = "ModuleSPUPassive"
+[5] = "ModuleRTDataTransmitter"
+MODULES FOR PART NAMED RCSBlock
+LIST of 4 items:
+[0] = "ModuleRCSFX"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 4 items:
+[0] = "ModuleRCSFX"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreHex
+LIST of 11 items:
+[0] = "ModuleCommand"
+[1] = "ModuleReactionWheel"
+[2] = "ModuleSAS"
+[3] = "ModuleKerbNetAccess"
+[4] = "CollisionFX"
+[5] = "TweakScale"
+[6] = "KOSNameTag"
+[7] = "ModuleSPU"
+[8] = "ModuleRTAntennaPassive"
+[9] = "TrajectoriesVesselSettings"
+[10] = "ModuleTripLogger"
+MODULES FOR PART NAMED solarPanels4
+LIST of 5 items:
+[0] = "KopernicusSolarPanel"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "FNSolarPanelWasteHeatModule"
+MODULES FOR PART NAMED solarPanels4
+LIST of 5 items:
+[0] = "KopernicusSolarPanel"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "FNSolarPanelWasteHeatModule"
+MODULES FOR PART NAMED GooExperiment
+LIST of 4 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED GooExperiment
+LIST of 4 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "ModuleScienceExperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED ScienceBox
+LIST of 5 items:
+[0] = "ModuleConductionMultiplier"
+[1] = "ModuleScienceContainer"
+[2] = "CollisionFX"
+[3] = "ModuleKISItemEvaTweaker"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED KR-2042
+LIST of 5 items:
+[0] = "kOSProcessor"
+[1] = "ModuleLight"
+[2] = "kOSLightModule"
+[3] = "CollisionFX"
+[4] = "KOSNameTag"
+MODULES FOR PART NAMED hc.scicam
+LIST of 4 items:
+[0] = "MuMechModuleHullCameraZoom"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+[3] = "JSIExternalCameraSelector"
+MODULES FOR PART NAMED B9.Control.RCS.Tank.MT1
+LIST of 3 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED B9.Control.RCS.Tank.MT1
+LIST of 3 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED stackDecouplerMini
+LIST of 7 items:
+[0] = "ModuleDecouple"
+[1] = "ModuleToggleCrossfeed"
+[2] = "ModuleTestSubject"
+[3] = "CollisionFX"
+[4] = "TweakScale"
+[5] = "KOSNameTag"
+[6] = "KJRDecouplerReinforcementModule"
+MODULES FOR PART NAMED KspiNuclearCandle
+LIST of 11 items:
+[0] = "FlatFNRadiator"
+[1] = "ModuleEnginesFX"
+[2] = "InterstellarFissionNTR"
+[3] = "ThermalElectricEffectGenerator"
+[4] = "ThermalNozzleController"
+[5] = "ModuleJettison"
+[6] = "ModuleGimbal"
+[7] = "ModuleTestSubject"
+[8] = "FXModuleLookAtConstraint"
+[9] = "CollisionFX"
+[10] = "KOSNameTag"
+MODULES FOR PART NAMED miniFuelTank
+LIST of 11 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "InterstellarFuelSwitch"
+[3] = "ModuleStorageCryostat"
+[4] = "FNModuleCryostat"
+[5] = "ModuleStorageCryostat"
+[6] = "ModuleStorageCryostat"
+[7] = "ModuleStorageCryostat"
+[8] = "ModuleStorageCryostat"
+[9] = "ModuleStorageCryostat"
+[10] = "KOSNameTag"
+MODULES FOR PART NAMED miniFuelTank
+LIST of 11 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "InterstellarFuelSwitch"
+[3] = "ModuleStorageCryostat"
+[4] = "FNModuleCryostat"
+[5] = "ModuleStorageCryostat"
+[6] = "ModuleStorageCryostat"
+[7] = "ModuleStorageCryostat"
+[8] = "ModuleStorageCryostat"
+[9] = "ModuleStorageCryostat"
+[10] = "KOSNameTag"
+MODULES FOR PART NAMED RTLongAntenna2
+LIST of 6 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "ModuleRTAntenna"
+[5] = "ModuleSPUPassive"
+MODULES FOR PART NAMED SurfAntenna
+LIST of 6 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+[3] = "ModuleRTAntenna"
+[4] = "ModuleSPUPassive"
+[5] = "ModuleRTDataTransmitter"
+MODULES FOR PART NAMED dmImagingPlatform
+LIST of 11 items:
+[0] = "ModuleGPS"
+[1] = "ModuleKerbNetAccess"
+[2] = "DMModuleScienceAnimate"
+[3] = "CollisionFX"
+[4] = "ModuleKISItem"
+[5] = "SCANsat"
+[6] = "ModuleResourceScanner"
+[7] = "TweakScale"
+[8] = "ModuleSCANresourceScanner"
+[9] = "SCANresourceDisplay"
+[10] = "KOSNameTag"
+MODULES FOR PART NAMED hc.scicam
+LIST of 4 items:
+[0] = "MuMechModuleHullCameraZoom"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+[3] = "JSIExternalCameraSelector"
+MODULES FOR PART NAMED EngineerChip
+LIST of 3 items:
+[0] = "FlightEngineerModule"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreOcto2
+LIST of 10 items:
+[0] = "ModuleCommand"
+[1] = "ModuleSAS"
+[2] = "ModuleKerbNetAccess"
+[3] = "CollisionFX"
+[4] = "TweakScale"
+[5] = "KOSNameTag"
+[6] = "ModuleSPU"
+[7] = "ModuleRTAntennaPassive"
+[8] = "TrajectoriesVesselSettings"
+[9] = "ModuleTripLogger"
+MODULES FOR PART NAMED sasModule
+LIST of 4 items:
+[0] = "ModuleReactionWheel"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED EC2501
+LIST of 8 items:
+[0] = "TweakScale"
+[1] = "AnimatedContainerContent"
+[2] = "ModuleToggleCrossfeed"
+[3] = "InterstellarResourceConverter"
+[4] = "KspiSuperCapacitator"
+[5] = "ModuleElementRadioactiveDecay"
+[6] = "CollisionFX"
+[7] = "KOSNameTag"
+MODULES FOR PART NAMED RTGigaDish1
+LIST of 6 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+[4] = "ModuleRTAntenna"
+[5] = "ModuleSPUPassive"
+MODULES FOR PART NAMED kOSMachineRad
+LIST of 5 items:
+[0] = "kOSProcessor"
+[1] = "KopernicusSolarPanel"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+[4] = "FNSolarPanelWasteHeatModule"
+MODULES FOR PART NAMED sensorGammaRaySpectrometer
+LIST of 3 items:
+[0] = "ModuleScienceExperiment"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED mumech.MJ2.AR202
+LIST of 9 items:
+[0] = "ModuleCommand"
+[1] = "MechJebCore"
+[2] = "MechJebAR202"
+[3] = "CollisionFX"
+[4] = "TweakScale"
+[5] = "KOSNameTag"
+[6] = "ModuleSPU"
+[7] = "TrajectoriesVesselSettings"
+[8] = "ModuleTripLogger"
+MODULES FOR PART NAMED SCANsat.Scanner24
+LIST of 4 items:
+[0] = "SCANsat"
+[1] = "SCANexperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED HighGainAntenna5
+LIST of 6 items:
+[0] = "ModuleAnimateGeneric"
+[1] = "CollisionFX"
+[2] = "KOSNameTag"
+[3] = "ModuleRTAntenna"
+[4] = "ModuleSPUPassive"
+[5] = "ModuleTripLogger"
+MODULES FOR PART NAMED SCANsat.Scanner2
+LIST of 4 items:
+[0] = "SCANsat"
+[1] = "SCANexperiment"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED stackPoint1
+LIST of 4 items:
+[0] = "CollisionFX"
+[1] = "TweakScale"
+[2] = "KOSNameTag"
+[3] = "ThermalPowerTransport"
+MODULES FOR PART NAMED dmSoilMoisture
+LIST of 9 items:
+[0] = "DMSoilMoisture"
+[1] = "CollisionFX"
+[2] = "ModuleResourceScanner"
+[3] = "ModuleResourceScanner"
+[4] = "ModuleResourceScanner"
+[5] = "ModuleSCANresourceScanner"
+[6] = "SCANresourceDisplay"
+[7] = "TweakScale"
+[8] = "KOSNameTag"
+MODULES FOR PART NAMED asasmodule1-2
+LIST of 4 items:
+[0] = "ModuleReactionWheel"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 8 items:
+[0] = "ProceduralPart"
+[1] = "ProceduralShapeCylinder"
+[2] = "ProceduralShapeCone"
+[3] = "ProceduralShapePill"
+[4] = "ProceduralShapeBezierCone"
+[5] = "TankContentSwitcher"
+[6] = "CollisionFX"
+[7] = "KOSNameTag"
+MODULES FOR PART NAMED Timberwind
+LIST of 16 items:
+[0] = "InterstellarFissionPBDP"
+[1] = "ThermalElectricEffectGenerator"
+[2] = "ThermalNozzleController"
+[3] = "ModuleEngines"
+[4] = "FXModuleAnimateThrottle"
+[5] = "FXModuleAnimateThrottle"
+[6] = "ModuleGimbal"
+[7] = "ModuleJettison"
+[8] = "FlagDecal"
+[9] = "ModuleSurfaceFX"
+[10] = "ModuleSurfaceFX"
+[11] = "TweakScale"
+[12] = "FlatFNRadiator"
+[13] = "ModuleActiveRadiator"
+[14] = "CollisionFX"
+[15] = "KOSNameTag"
+MODULES FOR PART NAMED R8winglet
+LIST of 4 items:
+[0] = "ModuleControlSurface"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED R8winglet
+LIST of 4 items:
+[0] = "ModuleControlSurface"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED R8winglet
+LIST of 4 items:
+[0] = "ModuleControlSurface"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED R8winglet
+LIST of 4 items:
+[0] = "ModuleControlSurface"
+[1] = "CollisionFX"
+[2] = "TweakScale"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED hc.booster
+LIST of 5 items:
+[0] = "MuMechModuleHullCameraZoom"
+[1] = "MuMechModuleHullCameraZoom"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+[4] = "JSIExternalCameraSelector"
+MODULES FOR PART NAMED hc.booster
+LIST of 5 items:
+[0] = "MuMechModuleHullCameraZoom"
+[1] = "MuMechModuleHullCameraZoom"
+[2] = "CollisionFX"
+[3] = "KOSNameTag"
+[4] = "JSIExternalCameraSelector"

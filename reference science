@@ -1,0 +1,55 @@
+//reference science experiments
+
+
+//ModuleScienceExperiment items
+GooExperiment
+sensorBarometer
+sensorGravimeter
+FNLCMS
+B9.Control.ASAS
+B9.Cockpit.MK2.Nosecone.ASAS
+B9.Control.ACU
+sensorAccelerometer
+FNGCMS
+sensorGammaRaySpectrometer
+KspiSampleDrill
+
+
+
+//DMITEMS
+dmmagBoom
+dmUSScope
+DTMagnetometer
+dmUSGoo
+dmUSImagingPlatform
+dmUSMagBoom
+dmGoreSat
+dmUSGoreSat
+dmUSAtmosSense
+dmUSAccGrav
+dmUSSolarParticles	
+dmUSSoilMoisture
+dmUSMat
+USRPWS	
+dmUSPresTemp
+dmDAN
+
+
+
+//	SPECIAL
+dmUSSoilMoisture
+// - DMSoilMoisture
+dmUSAsert
+// - ModuleAsteroidAnalysis / DMAsteroidScanner
+dmSolarCollector
+// - DMSolarCollector
+dmBathymetry
+// - DMBathymetry
+dmXRay
+// - DMXRayDiffract
+dmbioDrill
+// - DMBioDrill
+dmRoverGoo
+// - DMRoverGooMat
+dmsurfacelaser
+// - DMModuleScienceAnimate

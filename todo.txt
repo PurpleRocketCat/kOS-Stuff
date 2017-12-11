@@ -1,0 +1,31 @@
+//TO DO FOR DUNA
+	get ike encounter and deploy at edge of duna SOI
+	Then download startup script to lander in case no signal
+	change periapsis to calculated braking altitude (probably <9km?)
+	deploy lander
+	deploy orbiter
+	set orbiter PE to greater than atmo
+	arrange orbiter capture burn
+	
+
+
+// write individual science scripts for duna craft
+	should have separate functions for resuable science
+	function for once only science
+
+
+// 		to add to boot script
+	first run check logic
+		checks for file (need to write file checking function)
+		if file is there jump to proceed
+		
+		Else //is not there then 
+			//write file (notfirstrun)
+			// do science module check (grabmodules.ks)
+			//writes science checker (or download large universal science runner)
+			do RT check (create RT master list. reference from grabmodules)
+			RT Setup (leaves RTisSetup file for later reference)
+			housecleaning (delete non-used files)
+		//end
+		
+			

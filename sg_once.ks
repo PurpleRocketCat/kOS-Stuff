@@ -23,7 +23,8 @@
 			}
 		}
 	}
-  FOR P in SHIP:PARTS {
+
+FOR P in SHIP:PARTS {
     IF P:MODULES:CONTAINS("dmmodulescienceanimate") {
 		IF NOT P:GETMODULE("dmmodulescienceanimate"):RERUNNABLE {
 			IF NOT P:GETMODULE("dmmodulescienceanimate"):INOPERABLE {
