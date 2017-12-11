@@ -1,14 +1,15 @@
 // ikeflyer
-RUN release.ks
+RUN separation.ks
 
 
 // clear the delivery craft
+LOCK STEERING TO NORMAL
+
 RCS ON
 //somehow fire thrusters for like 2seconds
 wait 20.
 PANELS ON.
-download deployrt.ks.
-run deployrt.ks.
+
 
 // congrats you're hopefully not broken
 
@@ -17,6 +18,7 @@ download test.ks.
 run sg_rerun.ks.
 run sciencecollect.ks.
 run sciencecleaner.ks.
+/// trying to get best angle for solar panels
 lock ship:pitch(0,0).
 
 
